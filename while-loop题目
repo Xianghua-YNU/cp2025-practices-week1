@@ -1,0 +1,10 @@
+用while 循环找到20个可以被5，7，和11整除的数，提示，将找到的数放在一个元组中
+
+伪代码：
+Number found = 0
+x = 11
+While number found is less than 20:
+    If x is divisible by 5, 7 and 11:
+        Print x
+        Increase number found by 1
+    Increase x by 1
